@@ -1,0 +1,81 @@
+amfi_code,scheme_name,benchmark_index,tracking_error_pct,matched_observations
+100016,HDFC Top 100 Fund - Regular Plan - Growth,Nifty 50,20.71676981266199,3447
+100016,HDFC Top 100 Fund - Regular Plan - Growth,Nifty 100,19.928360293890286,1149
+100025,HDFC Short Term Debt Fund - Regular - Growth,Nifty 50,15.559437952913385,3447
+100025,HDFC Short Term Debt Fund - Regular - Growth,Nifty 100,13.453514415585591,1149
+100033,HDFC Mid-Cap Opportunities Fund - Regular - Growth,Nifty 50,23.934763731693305,3447
+100033,HDFC Mid-Cap Opportunities Fund - Regular - Growth,Nifty 100,22.869942052083108,1149
+101206,ABSL Frontline Equity Fund - Regular - Growth,Nifty 50,20.844772827553694,3447
+101206,ABSL Frontline Equity Fund - Regular - Growth,Nifty 100,19.27064051369653,1149
+101207,ABSL Small Cap Fund - Regular - Growth,Nifty 50,29.812652796519,3447
+101207,ABSL Small Cap Fund - Regular - Growth,Nifty 100,29.21174251929163,1149
+101208,ABSL Liquid Fund - Regular - Growth,Nifty 50,15.031234737363397,3447
+101208,ABSL Liquid Fund - Regular - Growth,Nifty 100,12.89568921773665,1149
+102885,UTI Nifty 50 Index Fund - Regular - Growth,Nifty 50,19.824522105703014,3447
+102885,UTI Nifty 50 Index Fund - Regular - Growth,Nifty 100,18.368034296960943,1149
+102886,UTI Mid Cap Fund - Regular - Growth,Nifty 50,23.9107342976703,3447
+102886,UTI Mid Cap Fund - Regular - Growth,Nifty 100,22.560814215136638,1149
+102887,UTI Flexi Cap Fund - Regular - Growth,Nifty 50,21.590538431072627,3447
+102887,UTI Flexi Cap Fund - Regular - Growth,Nifty 100,20.221623215661825,1149
+118632,Nippon India Large Cap Fund - Regular - Growth,Nifty 50,20.27333066067925,3447
+118632,Nippon India Large Cap Fund - Regular - Growth,Nifty 100,19.2115192503901,1149
+118633,Nippon India Large Cap Fund - Direct - Growth,Nifty 50,20.669872989269898,3447
+118633,Nippon India Large Cap Fund - Direct - Growth,Nifty 100,19.344939246000745,1149
+118634,Nippon India Small Cap Fund - Regular - Growth,Nifty 50,29.311950461315167,3447
+118634,Nippon India Small Cap Fund - Regular - Growth,Nifty 100,27.72863739829558,1149
+118635,Nippon India ETF Nifty 50 BeES,Nifty 50,19.702881042214866,3447
+118635,Nippon India ETF Nifty 50 BeES,Nifty 100,18.307639338664934,1149
+118636,Nippon India Gilt Securities Fund - Regular - Growth,Nifty 50,15.58927509746096,3447
+118636,Nippon India Gilt Securities Fund - Regular - Growth,Nifty 100,13.47582682889032,1149
+119092,Axis Bluechip Fund - Regular - Growth,Nifty 50,20.325011956895665,3447
+119092,Axis Bluechip Fund - Regular - Growth,Nifty 100,18.908165842556627,1149
+119093,Axis Bluechip Fund - Direct - Growth,Nifty 50,20.361186662502064,3447
+119093,Axis Bluechip Fund - Direct - Growth,Nifty 100,18.78998377218692,1149
+119094,Axis Midcap Fund - Regular - Growth,Nifty 50,24.87227455359216,3447
+119094,Axis Midcap Fund - Regular - Growth,Nifty 100,23.765197701108367,1149
+119095,Axis Small Cap Fund - Regular - Growth,Nifty 50,29.13681553777769,3447
+119095,Axis Small Cap Fund - Regular - Growth,Nifty 100,28.57813336985091,1149
+119120,SBI Magnum Gilt Fund - Regular Plan - Growth,Nifty 50,15.52948290745697,3447
+119120,SBI Magnum Gilt Fund - Regular Plan - Growth,Nifty 100,13.564645267040476,1149
+119551,SBI Bluechip Fund - Regular Plan - Growth,Nifty 50,20.61665690944797,3447
+119551,SBI Bluechip Fund - Regular Plan - Growth,Nifty 100,19.118256851630818,1149
+119552,SBI Bluechip Fund - Direct Plan - Growth,Nifty 50,20.481739779488294,3447
+119552,SBI Bluechip Fund - Direct Plan - Growth,Nifty 100,19.212721030300678,1149
+119598,SBI Small Cap Fund - Regular Plan - Growth,Nifty 50,29.01598670421286,3447
+119598,SBI Small Cap Fund - Regular Plan - Growth,Nifty 100,28.388145413326672,1149
+119599,SBI Small Cap Fund - Direct Plan - Growth,Nifty 50,29.163481937663832,3447
+119599,SBI Small Cap Fund - Direct Plan - Growth,Nifty 100,27.71351379626376,1149
+120503,ICICI Pru Bluechip Fund - Regular - Growth,Nifty 50,20.435317812921376,3447
+120503,ICICI Pru Bluechip Fund - Regular - Growth,Nifty 100,19.294776031543666,1149
+120504,ICICI Pru Bluechip Fund - Direct - Growth,Nifty 50,21.051513610612865,3447
+120504,ICICI Pru Bluechip Fund - Direct - Growth,Nifty 100,19.15870037972257,1149
+120505,ICICI Pru Midcap Fund - Regular - Growth,Nifty 50,24.598968960711503,3447
+120505,ICICI Pru Midcap Fund - Regular - Growth,Nifty 100,23.19675096004632,1149
+120506,ICICI Pru Value Discovery Fund - Regular - Growth,Nifty 50,21.063460281398207,3447
+120506,ICICI Pru Value Discovery Fund - Regular - Growth,Nifty 100,19.600483949857455,1149
+120507,ICICI Pru Liquid Fund - Regular - Growth,Nifty 50,15.035523894310982,3447
+120507,ICICI Pru Liquid Fund - Regular - Growth,Nifty 100,12.90435755950335,1149
+120841,Kotak Bluechip Fund - Regular - Growth,Nifty 50,20.274685053796578,3447
+120841,Kotak Bluechip Fund - Regular - Growth,Nifty 100,18.31187841857632,1149
+120842,Kotak Emerging Equity Fund - Regular - Growth,Nifty 50,23.60841974388011,3447
+120842,Kotak Emerging Equity Fund - Regular - Growth,Nifty 100,21.91693759423835,1149
+120843,Kotak Flexicap Fund - Regular - Growth,Nifty 50,21.957472133815095,3447
+120843,Kotak Flexicap Fund - Regular - Growth,Nifty 100,20.642496841144062,1149
+120844,Kotak Liquid Fund - Regular - Growth,Nifty 50,15.02947844540255,3447
+120844,Kotak Liquid Fund - Regular - Growth,Nifty 100,12.904556781048557,1149
+125497,HDFC Top 100 Fund - Direct Plan - Growth,Nifty 50,20.676201460755188,3447
+125497,HDFC Top 100 Fund - Direct Plan - Growth,Nifty 100,19.107208897596127,1149
+125498,HDFC Mid-Cap Opportunities Fund - Direct - Growth,Nifty 50,23.42639707504582,3447
+125498,HDFC Mid-Cap Opportunities Fund - Direct - Growth,Nifty 100,22.35920824296721,1149
+148567,Mirae Asset Large Cap Fund - Regular - Growth,Nifty 50,20.588799321295355,3447
+148567,Mirae Asset Large Cap Fund - Regular - Growth,Nifty 100,18.96636779215802,1149
+148568,Mirae Asset Emerging Bluechip Fund - Regular - Growth,Nifty 50,21.42140667583756,3447
+148568,Mirae Asset Emerging Bluechip Fund - Regular - Growth,Nifty 100,20.321345225145677,1149
+148569,Mirae Asset Tax Saver Fund - Regular - Growth,Nifty 50,22.90664590611396,3447
+148569,Mirae Asset Tax Saver Fund - Regular - Growth,Nifty 100,21.736518889258573,1149
+149322,DSP Top 100 Equity Fund - Regular - Growth,Nifty 50,20.824026467391327,3447
+149322,DSP Top 100 Equity Fund - Regular - Growth,Nifty 100,19.326406331048716,1149
+149323,DSP Midcap Fund - Regular - Growth,Nifty 50,23.125942229952198,3447
+149323,DSP Midcap Fund - Regular - Growth,Nifty 100,21.952116319885416,1149
+149324,DSP Small Cap Fund - Regular - Growth,Nifty 50,28.648073399551826,3447
+149324,DSP Small Cap Fund - Regular - Growth,Nifty 100,27.917030841826744,1149
